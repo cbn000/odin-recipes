@@ -1,0 +1,63 @@
+* {
+    font-family: Georgia, sans-serif;
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+body {
+    background-color: rgb(180, 180, 178);
+}
+
+div {
+    width: 900px;
+    margin: 0px auto;
+}
+
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(100, 130, 251);
+
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+ul {
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+
+li {
+    flex-grow: 1;
+
+    margin: 10px 0px;
+    padding: 5px;
+    padding-top: 20px;
+    background-color: rgb(255, 255, 255);
+
+    height: 300px;
+    width: auto;
+    
+    text-align: center;
+    font-size: 15px;
+}
+
+img {
+    display: block;
+    padding: 10px;
+    border-radius: 0px;
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 250px;
+    height: auto;
+}
+
+#centerrecipe {
+    margin: 10px 20px;
+}

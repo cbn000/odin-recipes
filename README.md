@@ -1,3 +1,3 @@
 ## The Odin Project
 
-Open-source curriculum [Odin Project](https://www.theodinproject.com) teaching web development skills to brush up my HTML, CSS and JavaScript. Nice side-hobby to derust what needs derusting.
+Open-source curriculum [Odin Project](https://www.theodinproject.com) teaching web development skills to brush up my HTML, CSS and JavaScript.
