@@ -1,0 +1,101 @@
+* {
+    font-family: Georgia, sans-serif;
+    color: rgb(0, 0, 0);
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(180, 180, 178);
+}
+
+div {
+    width: 900px;
+    margin: 0px auto;
+}
+
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(100, 130, 251);
+    border-radius: 10px;
+
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+
+img {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 100%;
+    height: auto;
+}
+
+.card {
+    align-items: center;
+    padding: 10px;
+    padding-top: 20px;
+    background-color: rgb(255, 255, 255);
+
+    font-size: 16px;
+
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}
+
+.description{
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+    padding: 20px;
+}
+
+.card h2{
+    font-size: 20px;
+    text-align: center;
+    margin: 0px;
+}
+
+.ingredients,
+.steps{
+    padding: 0px;
+    display: inline-block;
+    width: 45%;
+    vertical-align: top;
+    
+}
+
+ul,
+ol {
+    padding: 10px;
+    padding-left: 30px;
+    margin: 0px;
+}
+
+.footer{
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.disclaimer{
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    font-size: 12px;
+    margin-top: 120px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+
